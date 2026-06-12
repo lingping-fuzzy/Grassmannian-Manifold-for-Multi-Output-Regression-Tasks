@@ -18,7 +18,7 @@ Our proposed method (GMD) aligns source and target domains by:
 - Preserving discriminative information during alignment
 - Optimizing with a regression loss on the aligned representations
 
-For a detailed information with existing domain adaptation methods (**DARE-GRAM, RSD, PnP-GA, CORAL, DANN, DAN, MCD, AFN, DSAN, BNM, BSP, SSRT, **etc.), please refer to **Table I** in the original paper. A summary table is available in the manuscript.
+For a detailed information with existing domain adaptation methods (DARE-GRAM, RSD, PnP-GA, CORAL, DANN, DAN, MCD, AFN, DSAN, BNM, BSP, SSRT, etc.), please refer to **Table I** in the original paper. A summary table is available in the manuscript.
 
 ## Datasets
 
